@@ -1,7 +1,7 @@
 # Using ESLint and Prettier in a TypeScript Project
 
 ```BASH
-yarn add -D eslint @typescript-eslint/parser@latest @typescript-eslint/eslint-plugin@latest eslint-plugin-react@^7.20.0 eslint-plugin-react-hooks@^4 || ^3 || ^2.3.0 || ^1.7.0 eslint-config-airbnb@latest eslint-plugin-import@^2.21.2 eslint-plugin-jsx-a11y@^6.3.0 eslint-import-resolver-typescript prettier eslint-config-prettier eslint-plugin-prettier husky && touch .prettierrc .eslintrc.json
+yarn add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react eslint-plugin-react-hooks eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-import-resolver-typescript prettier eslint-config-prettier eslint-plugin-prettier husky && touch .prettierrc .eslintrc.json
 ```
 
 Add to `.prettierrc` file:
