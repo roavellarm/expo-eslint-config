@@ -38,6 +38,7 @@ Add to `.eslintrc.json` file:
   "plugins": ["react", "@typescript-eslint", "prettier"],
   "rules": {
     "prettier/prettier": "error",
+    "react/style-prop-object": "off",
     "react/jsx-filename-extension": ["off", { "extensions": [".js", ".jsx"] }],
     "@typescript-eslint/explicit-function-return-type": "off",
     "import/extensions": [
