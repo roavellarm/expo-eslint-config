@@ -1,5 +1,7 @@
 # Using ESLint and Prettier in a TypeScript Project
 
+If you want a shortcut instead of following all this tutorial click [here](shurtcut.md)
+
 ## Setting up ESLint to work with TypeScript
 
 ```BASH
